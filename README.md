@@ -1,6 +1,6 @@
 FarmTech na era da computação cloud
 
-Exemplo: “PBL Fase 5 – Grupo Eduardo Carvalho + Jhonatan”
+PBL Fase 5 – Grupo Eduardo Carvalho + Jhonatan
 Descrição Resumida
 
 Explique em poucas linhas do que se trata o projeto (Machine Learning para análise de safra, comparação de custos na nuvem, etc.).
