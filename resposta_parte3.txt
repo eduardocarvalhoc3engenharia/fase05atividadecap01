@@ -1,0 +1,17 @@
+Cenário:
+Você precisa acessar rapidamente os dados dos sensores, mas há restrições legais que impedem o armazenamento de dados no exterior.
+
+Opção Recomendada:
+Optar por utilizar os recursos na região de São Paulo (sa-east-1).
+
+Justificativa:
+
+Conformidade Legal: Hospedar os dados na região de São Paulo garante que eles permaneçam dentro da jurisdição brasileira, atendendo às exigências legais e regulatórias relacionadas à soberania dos dados.
+
+Latência e Acesso Rápido: Embora o custo seja maior, a proximidade com a fonte dos dados (sensores) pode reduzir a latência e melhorar a performance do acesso.
+
+Segurança e Privacidade: Armazenar os dados localmente minimiza os riscos de violação de normas de proteção de dados que podem ocorrer ao transferir informações para o exterior.
+
+Resumo:
+Mesmo que a opção na região de Virgínia seja mais econômica, quando há restrições legais para armazenamento no exterior, 
+é indispensável escolher a região de São Paulo para garantir que os dados fiquem armazenados no país e, assim, respeitem as normas vigentes.
