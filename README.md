@@ -42,6 +42,7 @@ Executar as células do notebook para reproduzir a análise de Machine Learning.
 Autores
 Eduardo Carvalho
 Jhonatan
+
 <br />
 Observações finais
 O notebook .ipynb e o PDF com os custos na AWS devem estar na raiz (ou na pasta que vocês preferirem).
